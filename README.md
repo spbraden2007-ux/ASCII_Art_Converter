@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 **Input Image** (`Sample.png`, 800×600px):
 
-![Sample Input](docs/images/sample_input.png)
+![Sample Input](docs/images/Sample.png)
 *Place your sample image here or see repo for examples*
 
 **ASCII Output** (100-char width):

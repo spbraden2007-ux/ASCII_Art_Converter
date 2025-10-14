@@ -406,8 +406,7 @@ Copyright (c) 2025 **Seohyun SP Park**
 
 **Seohyun SP Park**  
 University of Waterloo, Bachelor of Computer Science (2025 - Present)
-
-[Korea Presidential Science Scholar](https://en.namu.wiki/w/%EB%8C%80%ED%86%B5%EB%A0%B9%EA%B3%BC%ED%95%99%EC%9E%A5%ED%95%99%EA%B8%88#s-3.2)
+Korea Presidential Sciene Scholar 
 
 📧 spbraden2007@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/sp-park) | 🌐 [Portfolio](https://github.com/spbraden2007-ux)
 

@@ -422,7 +422,3 @@ If you found this useful for learning image processing or ASCII art generation, 
 - Terminal-based image viewers
 - Retro-style game graphics (text-mode rendering)
 - Social media ASCII art bots
-
----
-
-**Made with 💻 and ☕ at University of Waterloo**

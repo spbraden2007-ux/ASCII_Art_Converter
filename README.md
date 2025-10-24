@@ -411,8 +411,6 @@ University of Waterloo, Bachelor of Computer Science (2025 - Present) | [Korea P
 
 📧 spbraden2007@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/sp-park) | 🌐 [Portfolio](https://github.com/spbraden2007-ux)
 
-*Built to explore image processing algorithms, functional programming patterns, and Python best practices. Check out my other projects: [Project Name](#), [Project Name](#)*
-
 ---
 
 ## 🌟 Star This Project

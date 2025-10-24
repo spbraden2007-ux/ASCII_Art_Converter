@@ -1,1 +1,23 @@
+# ASCII Art Converter - Requirements
+# ====================================
+# Minimal dependencies for image-to-ASCII conversion
+
+# Required external package:
 Pillow>=8.0.0
+
+# Why Pillow?
+# - Image loading (PIL.Image.open)
+# - Grayscale conversion (convert("L"))
+# - Resize with aspect ratio
+# - Pixel data extraction
+
+# Python version requirement:
+# Python >= 3.6
+
+# Installation:
+# pip install -r requirements.txt
+
+# Alternative installation:
+# - Conda: conda install pillow
+# - Ubuntu: sudo apt-get install python3-pil
+# - macOS: brew install pillow

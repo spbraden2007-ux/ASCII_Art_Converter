@@ -3,7 +3,7 @@
 # Minimal dependencies for image-to-ASCII conversion
 
 # Required external package:
-Pillow>=8.0.0
+# Pillow>=8.0.0
 
 # Why Pillow?
 # - Image loading (PIL.Image.open)

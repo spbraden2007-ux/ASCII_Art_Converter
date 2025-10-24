@@ -2,14 +2,8 @@
 # ====================================
 # Minimal dependencies for image-to-ASCII conversion
 
-# Required external package:
-# Pillow>=8.0.0
-
-# Why Pillow?
-# - Image loading (PIL.Image.open)
-# - Grayscale conversion (convert("L"))
-# - Resize with aspect ratio
-# - Pixel data extraction
+# Image Processing
+Pillow>=8.0.0       # Image loading, grayscale conversion, resizing, pixel extraction
 
 # Python version requirement:
 # Python >= 3.6
@@ -18,6 +12,12 @@
 # pip install -r requirements.txt
 
 # Alternative installation:
-# - Conda: conda install pillow
-# - Ubuntu: sudo apt-get install python3-pil
-# - macOS: brew install pillow
+# pip install Pillow
+# conda install pillow
+# Ubuntu: sudo apt-get install python3-pil
+# macOS: brew install pillow
+
+# Notes:
+# - Pillow (PIL fork) is the only external dependency
+# - Built-in libraries used: os (file I/O)
+# - Supports: .jpg, .jpeg, .png, .gif, .webp image formats

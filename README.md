@@ -283,13 +283,15 @@ with open(output_name, "w") as f:
 ```
 ASCII_Art_Converter/
 │
-├── ASCII_Art_Converter.py    # Main script (all functions)
+├── ASCII_Art_Converter.py     # Main script (all functions)
 ├── requirements.txt           # Dependencies (Pillow>=8.0.0)
 ├── LICENSE                    # MIT License
 ├── README.md                  # This file
 │
-├── Sample.png                 # [Your input image]
-└── SampleResult.txt           # [Generated ASCII output]
+└── docs/
+    └── images/
+        ├── Sample.png         # [Your input image]
+        └── SampleResult.txt   # [Generated ASCII output]    
 ```
 
 **Single-file design**: Entire tool in one 100-line script for portability and clarity.

@@ -1,3 +1,9 @@
+"""
+ASCII Art Converter - Image to Terminal-Ready ASCII
+Transforms images into ASCII art using 11-character gradient with grayscale quantization
+Author: Seohyun Park | Oct 2025 | MIT License
+"""
+
 # Basic
 # Choosing image from the folder which you want to convert into ascii art. 
 

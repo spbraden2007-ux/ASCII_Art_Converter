@@ -287,6 +287,7 @@ ASCII_Art_Converter/
 ├── requirements.txt           # Dependencies (Pillow>=8.0.0)
 ├── LICENSE                    # MIT License
 ├── README.md                  # This file
+├── .gitignore
 │
 └── docs/
     └── images/
